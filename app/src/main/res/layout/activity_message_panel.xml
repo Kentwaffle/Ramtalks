@@ -10,7 +10,7 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerView2"
-        android:layout_width="400dp"
+        android:layout_width="390dp"
         android:layout_height="820dp"
         android:padding="15dp"
         android:background="@drawable/recycly_view_radius"
